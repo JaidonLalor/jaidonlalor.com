@@ -3,6 +3,10 @@ html, body {
   padding: 0;
   height: 100%;
   min-height: 100svh;
+  background-image: url('image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .section { 
