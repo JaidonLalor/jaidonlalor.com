@@ -23,7 +23,6 @@ html, body {
   max-width: 500px;
 }
 
-h1 {
-  font-size: 72px;
-  margin: 0;
+li + li {
+  margin-top: 0.5rem;
 }
